@@ -1,16 +1,30 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**MustaphaRabiai/MustaphaRabiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Salut, Je suis Mustapha RABIAI développeur web depuis 5 ans !
 
-Here are some ideas to get you started:
+💻 Venez découvrir mes projets en constante évolution et découvrez mes compétences en développement web !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies maîtrisées
+
+- Langages de programmation : HTML, CSS, JAVASCRIPT, NODEJS, PHP, SQL, TYPESCRIPT, JAVA, C, C++, C#
+- Frameworks : React, AngularJS, Symphony
+- Outils de développement : VScode
+- Autres : Suite Office, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop
+
+## 🌱 Projets en cours
+
+- [Portfolio] : Portfolio personnel
+
+
+## 📚 Contributions
+
+/
+
+## 💬 Me contacter
+
+N'hésitez pas à me contacter pour discuter de projets, de collaborations ou simplement pour échanger des idées. Vous pouvez me joindre via :
+
+- Email : MustaphaRabiai@outlook.fr
+- LinkedIn : https://www.linkedin.com/in/mustapha-rabiai/
+
+Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des suggestions. 😊
