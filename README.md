@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-<img align="center" src="https://github.com/MustaphaRabiai/MustaphaRabiai/assets/58685337/20d97c9e-673f-4eeb-9d2d-ef9748e1c33b">
+![gif-keybord](https://github.com/MustaphaRabiai/MustaphaRabiai/assets/58685337/628808ae-3d36-4ffe-be99-2d98b5a21688)
 
 👋 Salut, Je suis Mustapha RABIAI développeur web depuis 5 ans !
 
