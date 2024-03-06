@@ -1,4 +1,3 @@
-<p align="center">
 # Bienvenue sur mon profil GitHub ! 👋
 
 <img align="center" src="https://github.com/MustaphaRabiai/MustaphaRabiai/assets/58685337/20d97c9e-673f-4eeb-9d2d-ef9748e1c33b">
@@ -31,4 +30,3 @@ N'hésitez pas à me contacter pour discuter de projets, de collaborations ou si
 - LinkedIn : https://www.linkedin.com/in/mustapha-rabiai/
 
 Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des suggestions. 😊
-</p>
