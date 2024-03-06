@@ -1,5 +1,7 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
+![gif-keybord](https://github.com/MustaphaRabiai/MustaphaRabiai/assets/58685337/20d97c9e-673f-4eeb-9d2d-ef9748e1c33b)
+
 👋 Salut, Je suis Mustapha RABIAI développeur web depuis 5 ans !
 
 💻 Venez découvrir mes projets en constante évolution et découvrez mes compétences en développement web !
