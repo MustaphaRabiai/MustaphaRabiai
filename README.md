@@ -28,5 +28,6 @@ N'hésitez pas à me contacter pour discuter de projets, de collaborations ou si
 
 - Email : MustaphaRabiai@outlook.fr
 - LinkedIn : https://www.linkedin.com/in/mustapha-rabiai/
+- Portfolio : à venir...
 
 Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des suggestions. 😊
